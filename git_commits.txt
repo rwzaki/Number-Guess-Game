@@ -1,0 +1,8 @@
+28de46b fix: solve equality operations for insert_username_result
+3ebb338 fix: get user_id when user is new for later use
+e0c001b feat: insert game details into database when user guesses the answer with an output message
+163af46 feat: scripting the Start Game' part including user input and while loop for input feedback
+15e5d5c fix: storing the generated random number in a different variable
+3ee4d55 fix: typo in user_id query
+8a74a07 feat: differentiate welcome message for existing user and new user
+24dd6bf Initial commit
